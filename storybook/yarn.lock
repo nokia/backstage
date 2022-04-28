@@ -7859,10 +7859,10 @@ store2@^2.12.0:
   resolved "https://registry.npmjs.org/store2/-/store2-2.13.1.tgz#fae7b5bb9d35fc53dc61cd262df3abb2f6e59022"
   integrity sha512-iJtHSGmNgAUx0b/MCS6ASGxb//hGrHHRgzvN+K5bvkBTN7A9RTpPSf1WSp+nPGvWCJ1jRnvY7MKnuqfoi3OEqg==
 
-storybook-dark-mode@^1.0.8:
-  version "1.0.8"
-  resolved "https://registry.npmjs.org/storybook-dark-mode/-/storybook-dark-mode-1.0.8.tgz#bbd64b382fd62d38685fdd769e2cac4e32ec293d"
-  integrity sha512-uY6yTSd1vYE0YwlON50u+iIoNF/fmMj59ww1cpd/naUcmOmCjwawViKFG5YjichwdR/yJ5ybWRUF0tnRQfaSiw==
+storybook-dark-mode@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.npmjs.org/storybook-dark-mode/-/storybook-dark-mode-1.1.0.tgz#4aca307a9c09f1b95743da2db6b07c8eea99ed24"
+  integrity sha512-F+hG02zYGBzxGTUonA1XDV/CtMYm3OjF38Tu1CIUN+w+8hwUrwLcOtgtLLw6VjSrZdJ/ECK+tjXdKTV4oZqAXw==
   dependencies:
     fast-deep-equal "^3.0.0"
     memoizerific "^1.11.3"
